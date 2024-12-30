@@ -3,7 +3,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        반드시 label과 assignee를 지정해주세요!
+        반드시 label을 지정해주세요!
         만일 주제와 적합한 label이 없을 시, 추가하여도 좋습니다.
   - type: textarea
     id: title
