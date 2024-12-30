@@ -1,5 +1,3 @@
-name: Discussion Posts Template
-description: 주차별 선정된 대주제에 대해 기술적인 부분을 설명합니다.
 title: "제목"
 body:
   - type: markdown
@@ -15,7 +13,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: post link
+    id: post-link
     attributes:
       label: 🔗 포스트 링크
       description: 포스트 링크를 업로드해주세요.
