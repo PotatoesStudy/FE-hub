@@ -1,0 +1,23 @@
+name: Discussion Posts Template
+description: 주차별 선정된 대주제에 대해 기술적인 부분을 설명합니다.
+title: "제목"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        반드시 label과 assignee를 지정해주세요!
+        만일 주제와 적합한 label이 없을 시, 추가하여도 좋습니다.
+  - type: textarea
+    id: title
+    attributes:
+      label: ⭐️ 포스트 요약
+      description: 포스트 내용에 대해 간단히 요약해주세요. (ex. 자바스크립트 변수의 유효범위와 클로저)
+    validations:
+      required: true
+  - type: textarea
+    id: post link
+    attributes:
+      label: 🔗 포스트 링크
+      description: 포스트 링크를 업로드해주세요.
+    validations:
+      required: true
