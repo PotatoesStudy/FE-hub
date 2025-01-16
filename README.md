@@ -25,7 +25,7 @@
 || 홍창현 | [함수와 일급객체에 대해서 알아보자!](https://fallacious-arrow-f6a.notion.site/ce6c02c72d0e4481bd4abdff33902014?pvs=4) |
 ||  | [유사 배열 객체 알아보기](https://fallacious-arrow-f6a.notion.site/17187a117b618073b3f1d4ffcd4f44b9?pvs=4) |
 |01.13|||
-|| 고민지 | [JS로 이해하는 프로토타입 기반 상속](https://velog.io/@gominzip/JS%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85) |
+|| 고민지 | [JS로 이해하는 프로토타입 기반 상속](https://velog.io/@gominzip/JS%EC%9D%98-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EA%B9%8A%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0) |
 || 박경빈 | [쓰로틀링과 디바운싱 알아보기](https://velog.io/@gyeongbin/%EC%93%B0%EB%A1%9C%ED%8B%80%EB%A7%81%EA%B3%BC-%EB%94%94%EB%B0%94%EC%9A%B4%EC%8B%B1-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0) |
 || 조민규 | [Event 막 쓰지 알고 알고 쓰자](https://sparkling-answer-72a.notion.site/Event-179db05a7c0380a39289d07bfe49498e?pvs=74) |
 || 홍창현 | [타입스크립트 면접에 대비하자](https://fallacious-arrow-f6a.notion.site/17887a117b61809089f2f190b7d29c4d?pvs=4) |
