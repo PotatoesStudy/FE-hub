@@ -30,7 +30,14 @@
 || 조민규 | [Event 막 쓰지 알고 알고 쓰자](https://sparkling-answer-72a.notion.site/Event-179db05a7c0380a39289d07bfe49498e?pvs=74) |
 || 홍창현 | [타입스크립트 면접에 대비하자](https://fallacious-arrow-f6a.notion.site/17887a117b61809089f2f190b7d29c4d?pvs=4) |
 |01.20|||
+|| 고민지 | [만들면서 이해하는 SPA - 가상DOM, 리렌더링, 재조정](https://velog.io/@gominzip/%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-SPA-%EA%B0%80%EC%83%81DOM-%EB%A6%AC%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%9E%AC%EC%A1%B0%EC%A0%95) |
+|| 박경빈 | [useReducer로 맛깔나게 상태 관리하기](https://velog.io/@gyeongbin/useReducer%EB%A1%9C-%EB%A7%9B%EA%B9%94%EB%82%98%EA%B2%8C-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0) |
+||  | [useReducer를 이용해 복잡한 조건 필터링을 개선해보자🌀](https://velog.io/@gyeongbin/useReducer%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%B3%B5%EC%9E%A1%ED%95%9C-%EC%A1%B0%EA%B1%B4-%ED%95%84%ED%84%B0%EB%A7%81%EC%9D%84-%EA%B0%9C%EC%84%A0%ED%95%B4%EB%B3%B4%EC%9E%90) |
+|| 조민규 | [MFE를 다뤄보자 - 이론편](https://sparkling-answer-72a.notion.site/Micro-FrontEnd-17fdb05a7c0380f5bb20e8f9b3ddd9f6?pvs=4) |
+|| 홍창현 | [커스텀 훅과 고차컴포넌트의 비교](https://fallacious-arrow-f6a.notion.site/18087a117b618068aa7bcd289bf82613?pvs=4) |
+|01.27|||
 ||  |  |
+
 
 ## 💻 참여자
 <table>
