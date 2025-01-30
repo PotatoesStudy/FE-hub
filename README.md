@@ -21,7 +21,7 @@
 |01.06|||
 || 고민지 | [클로저는 환경을 어떻게 기억할까?](https://velog.io/@gominzip/%ED%81%B4%EB%A1%9C%EC%A0%80%EB%8A%94-%ED%99%98%EA%B2%BD%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B8%B0%EC%96%B5%ED%95%A0%EA%B9%8C) |
 || 박경빈 | [JS 이벤트 루프와 Web Worker](https://velog.io/@gyeongbin/JS-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84%EC%99%80-Web-Worker-%EC%A0%95%EB%A6%AC) |
-|| 조민규 | [JS 비동기 정복하기](https://sparkling-answer-72a.notion.site/JS-172db05a7c03809da515f11d93bbc0e2?pvs=4) |
+|| 조민규 | [JS 비동기 정복하기](https://velog.io/@mingle_1017/JS-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%A0%95%EB%B3%B5%ED%95%98%EA%B8%B0) |
 || 홍창현 | [함수와 일급객체에 대해서 알아보자!](https://fallacious-arrow-f6a.notion.site/ce6c02c72d0e4481bd4abdff33902014?pvs=4) |
 ||  | [유사 배열 객체 알아보기](https://fallacious-arrow-f6a.notion.site/17187a117b618073b3f1d4ffcd4f44b9?pvs=4) |
 |01.13|||
