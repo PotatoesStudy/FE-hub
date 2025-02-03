@@ -36,6 +36,14 @@
 || 조민규 | [MFE를 다뤄보자 - 이론편](https://sparkling-answer-72a.notion.site/Micro-FrontEnd-17fdb05a7c0380f5bb20e8f9b3ddd9f6?pvs=4) |
 || 홍창현 | [커스텀 훅과 고차컴포넌트의 비교](https://fallacious-arrow-f6a.notion.site/18087a117b618068aa7bcd289bf82613?pvs=4) |
 |01.27|||
+|| 조민규 | [MFE-실습편(Module Federation을 중점으로)](https://sparkling-answer-72a.notion.site/Module-Federation-18ddb05a7c0380b6b94ce359f46faf58?pvs=4) |
+|| 홍창현 | [리액트 파이버 알아보기](https://fallacious-arrow-f6a.notion.site/18e87a117b61802baafee582092c66fd) |
+|02.03|||
+|| 고민지 | [리액트 파이버와 함께 알아보는 리액트 렌더링](https://velog.io/@gominzip/%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%8C%8C%EC%9D%B4%EB%B2%84%EC%99%80-%ED%95%A8%EA%BB%98-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%A0%8C%EB%8D%94%EB%A7%81) |
+|| 박경빈 | [React Hook Form 더 잘 쓰고 싶어! - 공식 문서 TS, Advanced 탭 살펴보기](https://velog.io/@gyeongbin/React-Hook-Form-%EB%8D%94-%EC%9E%98-%EC%93%B0%EA%B3%A0-%EC%8B%B6%EC%96%B4-%EA%B3%B5%EC%8B%9D-%EB%AC%B8%EC%84%9C-TS-Advanced-%ED%83%AD-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0) |
+|| 조민규 | [리액트19의 use() 파헤쳐 보기](https://velog.io/@mingle_1017/%EB%A6%AC%EC%95%A1%ED%8A%B819%EC%9D%98-use-%ED%8C%8C%ED%97%A4%EC%B3%90-%EB%B3%B4%EA%B8%B0) |
+|| 홍창현 | [리액트 렌더링 알아보기](http://fallacious-arrow-f6a.notion.site) |
+|02.10|||
 ||  |  |
 
 
