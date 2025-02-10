@@ -49,49 +49,7 @@
 
 
 ## 💻 참여자
-<table>
-  <tr>
-    <td align="center" width="130px">
-      <a href="https://github.com/gominzip" target="_blank">
-        <img src="https://avatars.githubusercontent.com/gominzip" alt="민지" />
-      </a>
-    </td>
-    <td align="center" width="130px">
-      <a href="https://github.com/Gyeongbin" target="_blank">
-        <img src="https://avatars.githubusercontent.com/Gyeongbin" alt="경빈" />
-      </a>
-    </td>
-     <td align="center" width="130px">
-      <a href="https://github.com/Ariling" target="_blank">
-        <img src="https://avatars.githubusercontent.com/Ariling" alt="민규" />
-      </a>
-    </td>
-    <td align="center" width="130px">
-      <a href="https://github.com/spearStr" target="_blank">
-        <img src="https://avatars.githubusercontent.com/spearStr" alt="창현" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/MrMirror21" target="_blank">
-        고민지
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/a-honey" target="_blank">
-        박경빈
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/imeureka" target="_blank">
-        조민규
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/sudosubin" target="_blank">
-        홍창현
-      </a>
-    </td>
-  </tr>
-</table>
+|                                     고민지                                     |                                     박경빈                                     |                                    조민규                                     |                                    홍창현                                    |
+| :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/gominzip" width="120" />      | <img src="https://avatars.githubusercontent.com/Gyeongbin" width="120" />     | <img src="https://avatars.githubusercontent.com/Ariling" width="120" />      | <img src="https://avatars.githubusercontent.com/spearStr" width="120" />     |
+|                   [@gominzip](https://github.com/gominzip)                    |                   [@Gyeongbin](https://github.com/Gyeongbin)                  |                   [@Ariling](https://github.com/Ariling)                     |                   [@spearStr](https://github.com/spearStr)                   |
