@@ -45,6 +45,12 @@
 || 조민규 | [리액트19의 use() 파헤쳐 보기](https://velog.io/@mingle_1017/%EB%A6%AC%EC%95%A1%ED%8A%B819%EC%9D%98-use-%ED%8C%8C%ED%97%A4%EC%B3%90-%EB%B3%B4%EA%B8%B0) |
 || 홍창현 | [리액트 렌더링 알아보기](http://fallacious-arrow-f6a.notion.site) |
 |02.10|||
+|| 고민지 | [TanStack Query는 어떻게 데이터를 캐싱할까?](https://velog.io/@gominzip/TanStack-Query%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%BA%90%EC%8B%B1%ED%95%A0%EA%B9%8C) |
+|| 박경빈 | [useFieldArray와 UI 렌더링 오류 개선기](https://velog.io/@gyeongbin/useFieldArray%EC%99%80-UI-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%98%A4%EB%A5%98-%EA%B0%9C%EC%84%A0%EA%B8%B0) |
+||  | [FSD 아키텍처로 프론트엔드 프로젝트 폴더 구조 개선하기](https://velog.io/@gyeongbin/FSD-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%A1%9C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8F%B4%EB%8D%94-%EA%B5%AC%EC%A1%B0-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0) |
+|| 조민규 | [상태관리 공부하자~](https://velog.io/@mingle_1017/%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-%EA%B3%B5%EB%B6%80%ED%95%98%EC%9E%90) |
+|| 홍창현 | [Sentry 라이브러리 간단도입 및 후기](https://fallacious-arrow-f6a.notion.site/Sentry-19687a117b6180bb8662db47cee4b10c?pvs=4) |
+|02.17|||
 ||  |  |
 
 
