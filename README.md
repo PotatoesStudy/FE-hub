@@ -51,8 +51,12 @@
 || 조민규 | [상태관리 공부하자~](https://velog.io/@mingle_1017/%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-%EA%B3%B5%EB%B6%80%ED%95%98%EC%9E%90) |
 || 홍창현 | [Sentry 라이브러리 간단도입 및 후기](https://fallacious-arrow-f6a.notion.site/Sentry-19687a117b6180bb8662db47cee4b10c?pvs=4) |
 |02.17|||
+|| 고민지 | [가상 스크롤로 DOM 부하 핸들링하기](https://velog.io/@gominzip/%EA%B0%80%EC%83%81-%EC%8A%A4%ED%81%AC%EB%A1%A4%EB%A1%9C-DOM-%EB%B6%80%ED%95%98-%ED%95%B8%EB%93%A4%EB%A7%81%ED%95%98%EA%B8%B0-8cu6p7z9) |
+|| 박경빈 | [React 모듈화 방법을 낉이보거라](https://velog.io/@gyeongbin/React-%EB%AA%A8%EB%93%88%ED%99%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EB%82%89%EC%9D%B4%EC%98%A4%EA%B1%B0%EB%9D%BC-%EC%A1%B0%EC%82%AC%ED%95%98%EA%B8%B0) |
+|| 조민규 | [useQuery vs useSuspenseQuery 그리고 use()](https://velog.io/@mingle_1017/useQuery-vs-useSuspenseQuery-%EA%B7%B8%EB%A6%AC%EA%B3%A0-use) |
+|| 홍창현 | [SSR 알아보기](https://fallacious-arrow-f6a.notion.site/SSR-19c87a117b61802096accab151089b3e?pvs=4) |
+|03.03|||
 ||  |  |
-
 
 ## 💻 참여자
 |                                     고민지                                     |                                     박경빈                                     |                                    조민규                                     |                                    홍창현                                    |
