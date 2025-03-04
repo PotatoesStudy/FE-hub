@@ -56,6 +56,11 @@
 || 조민규 | [useQuery vs useSuspenseQuery 그리고 use()](https://velog.io/@mingle_1017/useQuery-vs-useSuspenseQuery-%EA%B7%B8%EB%A6%AC%EA%B3%A0-use) |
 || 홍창현 | [SSR 알아보기](https://fallacious-arrow-f6a.notion.site/SSR-19c87a117b61802096accab151089b3e?pvs=4) |
 |03.03|||
+|| 고민지 | [React Hook Form과 Zod를 활용한 Multi-step Form 구현기](https://velog.io/@gominzip/react-hook-form%EA%B3%BC-zod%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-Multi-step-Form-%EA%B5%AC%ED%98%84%EA%B8%B0) |
+|| 박경빈 | [useMutation을 이용해 병렬 처리하기(w. Promise.all)](https://velog.io/@gyeongbin/useMutation%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%B3%91%EB%A0%AC-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0w.-Promise.all) |
+|| 조민규 | [Server Rendering에서의 React query](https://velog.io/@mingle_1017/Server-Rendering%EC%97%90%EC%84%9C%EC%9D%98-React-query) |
+|| 홍창현 | [BFF 아키텍처 알아보기](https://fallacious-arrow-f6a.notion.site/BFF-1ab87a117b6180e8b23bd1b20daf3f13) |
+|03.10|||
 ||  |  |
 
 ## 💻 참여자
