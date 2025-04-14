@@ -1,6 +1,6 @@
 # 🍟 FE 감자 스터디 🍟
 ## 📆 기간 
-2025.01.06 ~ 
+2025.01.06 ~ 2025.03.31
 ## ❣️ 규칙
 - 다른 사람들이 월요일에 미리 읽을 수 있게 **일요일까지 포스트 올리기 🚫월요일 금지🚫**
 - 포스트는 Discussions에 Posts 항목으로 올리기 (형식은 Notion, pdf, 블로그 자유롭게 한 뒤 링크 올리기)
@@ -61,6 +61,7 @@
 || 조민규 | [Server Rendering에서의 React query](https://velog.io/@mingle_1017/Server-Rendering%EC%97%90%EC%84%9C%EC%9D%98-React-query) |
 || 홍창현 | [BFF 아키텍처 알아보기](https://fallacious-arrow-f6a.notion.site/BFF-1ab87a117b6180e8b23bd1b20daf3f13) |
 |03.10|||
+|| 조민규 | [forwardRef가 사라졌다!](https://velog.io/@mingle_1017/forWardRef%EA%B0%80-%EC%82%AC%EB%9D%BC%EC%A1%8C%EB%8B%A4) |
 ||  |  |
 
 ## 💻 참여자
